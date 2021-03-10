@@ -1,6 +1,2 @@
 
-.icon-home:before { content: '\e800'; } /* '' */
-.icon-user-1:before { content: '\e802'; } /* '' */
-.icon-mail:before { content: '\e803'; } /* '' */
-.icon-mobile:before { content: '\e804'; } /* '' */
-.icon-pen:before { content: '\e805'; } /* '' */
+.icon-right:before { content: '\f178'; } /* '' */
