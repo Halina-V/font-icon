@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "d7271d490b71df4311e32cdacae8b331",
+      "css": "home",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "56a0672588820ab1a16363e5d07dd22e",
+      "css": "user-1",
+      "code": 59394,
+      "src": "linecons"
+    },
+    {
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail",
+      "code": 59395,
+      "src": "linecons"
+    },
+    {
+      "uid": "6a9f3405aba67bcaee81e7ea38946b27",
+      "css": "mobile",
+      "code": 59396,
+      "src": "linecons"
+    },
+    {
+      "uid": "8e50efd23ddcb26f05878476c2c1ce8f",
+      "css": "pen",
+      "code": 59397,
+      "src": "typicons"
+    }
+  ]
+}
